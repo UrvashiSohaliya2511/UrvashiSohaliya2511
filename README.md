@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **MERN Stack at Masai School**
 
-- 👨‍💻 All of my projects are available at :  <a href="https://urvashisohaliya2511.github.io/">Portfolio</a>
+- 👨‍💻 All of my projects are available at :  <a href="https://urvashisohaliya2511.github.io/">✔ Portfolio</a>
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **<a href = "https://www.linkedin.com/in/urvashi-sohaliya-012919235/">Linkedin</a>**
+- 📫 How to reach me **<a href = "https://www.linkedin.com/in/urvashi-sohaliya-012919235/">✔ Linkedin</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
