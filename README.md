@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Urvashi Sohaliya</h1>
-<h3 >A passionate from Full Stack Web Developer India</h3>
+<h3 >A passionate Full Stack Web Developer from  India</h3>
 
 - 🌱 I’m currently learning **MERN Stack at Masai School**
 
