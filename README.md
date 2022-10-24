@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-<a href="https://twitter.com/urvashisohaliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="urvashisohaliya" height="30" width="40" /></a>
+<a href="[https://twitter.com/urvashisohaliya](https://www.linkedin.com/in/urvashi-sohaliya-012919235/)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="urvashisohaliya"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
